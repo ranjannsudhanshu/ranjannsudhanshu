@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sudhanshu Ranjan 👋
 
-<!--
-**ranjannsudhanshu/ranjannsudhanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering — AI & ML  
+🔐 Cybersecurity & Network Security Enthusiast  
+🐍 Python Developer | Security Tool Builder  
+🚀 Building projects under **SR CyberLabs**
 
-Here are some ideas to get you started:
+## 🛠️ My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ [SR-CyberShield](https://github.com/ranjannsudhanshu/SR-CyberShield) — Malicious URL Risk Detector
+- 📡 [SR-WiFi-Sentinel](https://github.com/ranjannsudhanshu/SR-WiFi-Sentinel) — Wi-Fi Security Risk Scanner
+- 🔑 [SR-PassSentinel](https://github.com/ranjannsudhanshu/SR-PassSentinel) — Password Security & Breach Awareness Tool
+
+## 🎯 Areas of Interest
+
+- Cybersecurity & Network Security
+- Ethical Hacking and Security Awareness
+- Python Programming & Automation
+- Artificial Intelligence & Machine Learning
+
+## 📫 Connect With Me
+
+- GitHub: [@ranjannsudhanshu](https://github.com/ranjannsudhanshu)
+
+*Learning, building, and improving one project at a time.*
+
+**SR CyberLabs**
